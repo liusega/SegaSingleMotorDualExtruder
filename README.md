@@ -1,4 +1,5 @@
 # SegaSingleMotorDualExtruder
+
 The is my dual extruder with only one extrusion step motor for 3d printing.
 Now is a working prototype.
 
@@ -15,4 +16,6 @@ This project have to design a brand new extruder and different firmware to acomp
 Current firmware is fork from Marlin (https://github.com/MarlinFirmware/Marlin)
 I will release them later.
 
+Check out these video of this extruder
+https://youtu.be/eSuJrgT880I?list=PL3762XmLwPYKiBUytoDqkcSuJ-bVJyzTX
 
