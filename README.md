@@ -3,7 +3,7 @@ The is my dual extruder with only one extrusion step motor for 3d printing.
 Now is a working prototype.
 
 Most dual extruder needs two step motors for each hotend to do the job.
-But i think it's way too have for an extruder.So I try just use one step motor to do the job.
+But i think it's way too heavy for an extruder.So I try just use one step motor to do the job.
 
 The other problem with dual extruder is when one hotend is working, the second would cause ooze.
 Ooze will make printing model caught a lot of unwanted results.
