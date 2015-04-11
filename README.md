@@ -13,6 +13,7 @@ To do that first the second nozzel need to swing and raise above metal plate.
 At the same time one filament need to be caught in between idler and extrusion gear teeth with enough pressure.
 
 This project have to design a brand new extruder and different firmware to acomplish goals above.
+
 Current firmware is derive from Marlin (https://github.com/liusega/Marlin/tree/SingleMotorDualExtruder)
 
 Check out these video of this extruder
